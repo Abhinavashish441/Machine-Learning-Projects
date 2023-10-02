@@ -1,0 +1,559 @@
+food_name,calories,protein,fat,carbohydrates,fiber
+Aam Ki Launji,80,1,0,20,1
+Kashmiri Pulao,300,6,10,40,3
+Tandoori Fish Tikka,200,20,10,5,1
+Methi Murgh Malai,280,22,15,8,2
+Shahi Tandoori Roti,150,4,5,20,2
+Chana Sundal,120,6,3,20,4
+Besan Ladoo,200,4,10,25,1
+Mushroom Tikka,150,10,8,12,2
+Kalmi Kebab,250,18,15,8,1
+Aam Papad,80,1,0,20,2
+Chana Dal Sundal,100,5,3,15,3
+Mutton Keema,300,20,15,10,2
+Dhabe Da Meat,350,25,18,12,2
+Mango Pachadi,120,2,6,15,1
+Ragi Mudde,120,3,1,25,3
+Chicken Keema,280,20,15,10,2
+Pesarattu Sandwich,180,8,6,20,4
+Bisi Bele Bath,250,6,10,35,3
+Fish Amritsari,200,18,10,8,1
+Thalipeeth,150,5,8,20,3
+Bhuni Roti,80,2,1,15,2
+Aamras Puri,250,3,12,30,2
+Bread Upma,120,4,5,15,2
+Gulab Jamun Cake,180,3,8,20,1
+Mango Mastani,200,5,10,25,1
+Aloo Ke Gutke,120,3,6,15,2
+Sattu Ka Paratha,250,10,12,20,3
+Amritsari Kulcha,180,5,8,20,2
+Pineapple Raita,60,2,3,8,1
+Chironji Ki Dal,150,8,5,20,4
+Kesar Pista Kulfi,200,6,10,15,0.5
+Dhaba Chicken Curry,300,25,15,10,2
+Meethe Chawal,180,2,8,25,1
+Aloo Baingan Sabzi,120,3,6,15,3
+Chole Bhature,450,15,25,50,8
+Lauki Ki Kheer,120,3,5,20,0.5
+Kacche Aam Ki Kadhi,80,2,4,10,1
+Bhutte Ka Kees,150,3,8,12,2
+Sukha Mutton,320,25,18,10,2
+Shahi Tukda,250,5,15,25,1
+Chicken Reshmi Kebab,200,18,10,5,1
+Lemon Rice,180,3,8,25,2
+Tandoori Chicken,250,25,10,5,1
+Matar Pulao,200,5,8,30,2
+Cabbage Sabzi,100,3,5,15,4
+Bhuna Chicken,280,22,15,10,2
+Mango Burfi,150,3,8,20,1
+Pumpkin Halwa,180,2,10,25,2
+Chicken Tikka Masala,300,20,15,12,2
+Mixed Vegetable Curry,150,5,8,15,3
+Rajasthani Dal Baati,320,10,15,30,5
+Sweet Pongal,200,4,6,35,1
+Peanut Chaat,120,5,8,10,3
+Tamarind Rice,250,4,10,35,2
+Rava Upma,150,4,6,20,2
+Chilli Chicken,280,18,12,15,2
+Mango Shrikhand,180,4,8,20,1
+Egg Biryani,350,15,15,30,2
+Spinach Pakora,120,3,6,15,2
+Kheema Pav,250,15,12,15,2
+Jaggery Rice,200,3,5,35,1
+Aloo Methi Sabzi,120,3,5,15,3
+Cucumber Raita,50,2,3,8,1
+Puliyogare,180,3,8,25,2
+Fish Curry Rice,300,18,15,25,2
+Dal Tadka,150,7,5,20,4
+Bread Pakora,200,5,10,15,2
+Butter Roti,80,2,4,15,1
+Kele Ki Sabzi,100,2,0.5,25,3
+Peas Pulao,220,5,8,35,2
+Mango Pickle Rice,180,3,8,25,1
+Dal Makhani,300,15,15,35,8
+Vegetable Korma,250,10,12,20,5
+Butter Chicken Pizza,400,20,18,30,3
+Malpua,180,4,10,20,1
+Til Ladoo,120,3,7,15,2
+Chicken Kofta Curry,280,15,12,18,3
+Rajma Chawal,320,12,10,40,6
+Aam Ka Panna,70,1,0,18,1
+Keerai Kootu,150,7,5,20,4
+Gobi Manchurian,200,5,10,25,3
+Mango Ice Cream,180,3,8,25,1
+Aloo Methi Paratha,250,8,12,20,3
+Kozhukattai,120,3,5,25,2
+Egg Roll,300,15,18,25,2
+Puri Bhaji,280,5,15,35,2
+Besan Chilla,120,8,5,15,3
+Coconut Ladoo,150,2,8,20,1
+Fish Fry,200,20,10,8,1
+Onion Uttapam,180,5,8,20,3
+Lauki Kofta,250,8,15,20,3
+Cherry Tomato Salad,50,2,1,10,2
+Chicken Seekh Kebab,220,18,10,5,1
+Aloo Jeera,120,3,5,15,2
+Kadai Mushroom Masala,220,10,15,12,3
+Mango Thokku,80,1,0,20,1
+Methi Paratha,150,4,5,20,2
+Chicken 65,280,20,15,10,2
+Nei Appam,160,2,8,20,1
+Rajma Wrap,300,12,8,25,4
+Gobi Paratha,250,7,10,30,4
+Chicken Hakka Noodles,350,18,20,30,4
+Gajar Matar Sabzi,120,3,5,15,3
+Chana Dal Chutney,70,3,4,10,2
+Dal Palak,200,10,8,20,4
+Aloo Baingan Masala,150,5,8,15,3
+Chicken Stew,220,15,10,15,2
+Sabudana Khichdi,180,2,5,30,2
+Veg Momos,150,5,8,20,3
+Mutton Biryani,400,20,18,30,2
+Aloo Chaat,120,3,5,15,2
+Rava Kesari,200,2,10,25,1
+Chicken Tandoori,250,25,12,5,1
+Capsicum Masala,180,6,10,15,3
+Cabbage Manchurian,200,5,10,25,3
+Mango Kesari,180,3,8,25,1
+Til Chikki,120,2,7,15,2
+Ragi Roti,100,3,2,20,3
+Aloo Gajar Sabzi,120,3,5,15,3
+Chicken Malai Tikka,280,20,15,8,1
+Masala Dosa,150,4,5,20,2
+Coconut Rice,250,4,15,30,2
+Ginger Chutney,50,1,3,8,1
+Keerai Poriyal,100,5,5,15,4
+Vegetable Sandwich,200,6,10,25,3
+Mango Kheer,180,4,8,25,0.5
+Avocado Salad,120,3,10,15,5
+Rasam Rice,180,3,5,30,2
+Chettinad Chicken Curry,300,25,15,12,2
+Paneer Bhurji,220,15,12,10,2
+Aam Ki Tokri Chaat,150,3,5,25,2
+Aloo Baingan Roti,180,5,8,20,3
+Chicken Nihari,320,22,18,10,2
+Palak Puri,200,4,10,25,2
+Chicken Methi,250,18,15,8,2
+Chole Samosa Chaat,200,6,8,25,3
+Aloo Matar Paratha,280,8,12,25,4
+Fish Curry Rice Bowl,300,20,15,25,2
+Dhokla Sandwich,180,4,8,20,2
+Cabbage Kofta,250,8,15,20,3
+Chicken Bharta,280,20,15,10,2
+Paneer Butter Masala Pizza,400,18,20,30,4
+Mango Rabri,250,5,15,25,1
+Vegetable Noodles Spring Roll,220,5,10,20,3
+Ragi Mudde Soppu Saaru,180,5,8,25,2
+Pineapple Sheera,200,2,10,25,1
+Egg Dum Biryani,350,18,15,30,2
+Pudina Masala Chaas,50,2,3,8,1
+Pesarattu Wrap,180,8,6,20,4
+Kathal Biryani,300,12,12,35,4
+Bhindi Nariyal Sabzi,120,4,6,15,3
+Palak Methi Thepla,200,5,8,20,3
+Coconut Chana Dal Sundal,100,5,3,15,3
+Dahi Ke Kebab,150,8,5,15,2
+Chawal Ki Kheer,180,4,8,25,0.5
+Mango Peda,120,2,6,15,0.5
+Chicken Chettinad,300,22,15,12,2
+Pudina Pulao,220,5,8,30,2
+Avocado Paratha,180,5,10,20,3
+Lauki Chana Dal,120,5,3,15,3
+Chicken Ghee Roast,280,20,15,10,2
+Aloo Parwal Sabzi,150,3,5,15,3
+Mango Coconut Lassi,120,3,5,20,1
+Moong Dal Chilla,100,6,4,15,3
+Butter Chicken Biryani,400,20,18,30,2
+Egg Bhurji Pav,250,15,12,15,2
+Poha Cutlet,180,4,8,25,2
+Palak Mushroom,200,8,12,15,3
+Chicken Kofta Kebab,220,18,10,5,1
+Capsicum Rice,250,4,15,30,2
+Tandoori Aloo,150,3,6,15,2
+Dal Bafla,220,8,12,25,4
+Prawn Curry,300,25,15,10,2
+Jowar Roti,80,2,1,15,2
+Gobhi Ke Kofte,250,8,15,20,3
+Rava Dhokla Pizza,180,4,8,20,2
+Mixed Sprouts Salad,50,5,0.5,10,3
+Keema Samosa,200,12,10,15,2
+Mango Bhel,120,3,5,20,2
+Egg Roll Paratha,300,15,18,25,2
+Mushroom Pulao,220,6,10,35,3
+Kalmi Vada,180,8,10,15,2
+Aloo Methi Pulao,250,5,12,30,2
+Prawn Biryani,400,20,18,30,2
+Dahi Ke Kebab Burger,350,12,15,30,3
+Masala Papad,50,2,1,5,1
+Kacchi Dabeli,200,4,8,25,2
+Vegan Chocolate Cake,180,2,10,25,1
+Cabbage Pakora,120,3,6,15,2
+Eggless Banana Bread,150,3,5,20,2
+Garlic Naan,150,4,5,20,2
+Litti Chokha,250,8,12,25,4
+Ragi Idli,80,3,1,15,2
+Gulab Jamun Milkshake,250,5,12,25,1
+Matar Kachori,180,6,10,15,2
+Cauliflower Sabzi,120,5,6,15,3
+Rajasthani Gatte Ka Saag,250,10,12,25,5
+Lemon Coriander Soup,70,2,1,15,3
+Mango Mint Cooler,80,1,0,20,1
+Chicken Jalfrezi,280,20,15,12,2
+Pesarattu Upma,200,6,8,25,4
+Bhindi Masala,120,4,6,15,3
+Mango Avocado Salsa,100,2,8,15,5
+Kesar Elaichi Shrikhand,180,4,8,20,1
+Bharwan Karela,150,5,6,15,3
+Prawn Masala,300,25,15,10,2
+Chole Tikki,220,8,10,25,4
+Mango Basil Sorbet,120,1,0,30,1
+Rajma Sandwich,180,8,6,20,3
+Sarson Da Saag,250,10,15,20,4
+Cabbage Carrot Poriyal,120,4,5,15,3
+Paneer Tikka Wrap,300,15,18,25,2
+Lauki Kheer,180,3,5,20,0.5
+Tomato Basil Bruschetta,150,4,8,15,2
+Chicken Keema Paratha,280,18,12,15,3
+Mango Jalapeno Salsa,120,1,0,25,2
+Dahi Puri,200,5,10,20,2
+Bhuna Mutton,320,22,18,10,2
+Vegetable Hakka Noodles,220,5,10,30,3
+Pineapple Coconut Chutney,80,1,0,20,1
+Aloo Gobi Masala,180,5,8,15,3
+Chicken Liver Fry,250,18,12,8,1
+Khatta Meetha Kaddu,120,3,5,15,2
+Chapati Noodles,180,4,8,25,3
+Avocado Chickpea Salad,150,5,8,20,4
+Methi Thepla,200,5,10,20,3
+Pumpkin Halwa,180,2,10,25,2
+Mutton Rogan Josh,300,25,15,10,2
+Chickpea Sundal,120,6,3,20,4
+Baingan Bharta Wrap,250,8,15,20,3
+Mango Chia Pudding,180,4,8,25,5
+Tandoori Mushroom,150,6,8,10,2
+Kalaadi Fry,120,10,8,5,0
+Chicken Achari,280,20,15,10,2
+Aloo Palak Paratha,200,6,10,20,3
+Masoor Dal Tadka,120,7,3,15,4
+Cucumber Mint Raita,60,2,3,8,1
+Samosa Burger,250,8,12,20,3
+Capsicum Rice,250,4,15,30,2
+Spinach Dal,150,8,5,20,4
+Chana Chaat Salad,100,5,3,15,3
+Mango Coconut Ladoo,120,2,6,15,0.5
+Chicken Coconut Curry,300,20,15,12,2
+Keerai Paniyaram,180,5,8,20,2
+Aamras Poori,250,3,12,30,2
+Methi Malai Chicken,280,22,15,8,2
+Coconut Burfi,150,2,8,20,1
+Veggie Omelette,180,10,12,8,2
+Mango Mousse,200,3,10,25,1
+Chana Masala,120,6,3,20,4
+Aloo Baingan Masala,150,5,8,15,3
+Chicken Kheema Pav,220,15,12,15,2
+Mango Chutney,80,1,0,20,1
+Gobhi Paratha,200,7,10,30,4
+Chicken Shawarma,250,18,12,15,2
+Sago Upma,120,2,5,25,2
+Avocado Chocolate Smoothie,180,4,10,25,3
+Rasgulla,150,2,6,20,0.5
+Palak Corn Sabzi,120,4,5,15,3
+Quinoa Salad,150,5,7,20,5
+Grilled Salmon,250,25,15,0,0
+Sweet Potato Fries,200,3,10,25,4
+Greek Yogurt Parfait,120,8,5,15,2
+Kale Smoothie,80,3,2,15,4
+Zucchini Noodles,100,2,8,10,3
+Almond Butter Toast,180,6,12,15,3
+Chia Seed Pudding,120,4,8,15,5
+Spinach and Feta Omelette,200,15,12,8,2
+Black Bean Burger,300,15,10,30,8
+Cauliflower Pizza,220,10,15,20,3
+Spiralized Carrot Salad,100,2,5,15,3
+Quinoa Stuffed Bell Peppers,180,5,8,25,4
+Acai Bowl,250,5,15,30,6
+Egg White Scramble,120,15,1,5,2
+Cottage Cheese Pancakes,200,15,10,15,1
+Shrimp Stir Fry,280,20,12,25,4
+Roasted Brussels Sprouts,150,5,8,20,6
+Cucumber Avocado Rolls,120,3,8,15,3
+Chickpea Spinach Curry,220,10,12,25,5
+Pumpkin Soup,180,4,8,20,3
+Mango Salsa,80,1,0,20,2
+Protein-Packed Smoothie,150,10,5,15,3
+Spaghetti Squash with Pesto,200,5,10,25,4
+Lentil Soup,120,8,3,15,4
+Baked Chicken Breast,250,30,10,0,0
+Cauliflower Rice Stir Fry,180,6,10,20,5
+Caprese Salad,120,8,8,5,2
+Avocado Egg Salad,200,10,15,10,5
+Teriyaki Tofu Bowl,220,15,12,20,3
+Walnut Cranberry Quinoa,180,6,10,20,4
+Turkey and Vegetable Skewers,250,25,12,15,2
+Green Tea Smoothie,100,3,5,15,2
+Lemon Herb Grilled Chicken,280,30,15,5,1
+Cherry Almond Granola,150,4,8,20,3
+Roasted Eggplant with Tahini,180,3,12,15,4
+Asparagus and Mushroom Risotto,220,7,10,25,3
+Salmon Avocado Roll,250,20,12,15,2
+Sweet Potato and Black Bean Burrito,200,8,5,30,8
+Beetroot and Goat Cheese Salad,120,5,8,10,2
+Crispy Tofu Nuggets,180,15,10,10,2
+Pineapple Coconut Smoothie Bowl,250,5,15,30,4
+Mushroom and Spinach Quesadilla,220,10,12,20,3
+Cucumber Dill Greek Yogurt Dip,100,5,5,10,1
+Sesame Ginger Salmon,280,25,15,10,1
+Vegan Chocolate Avocado Mousse,150,3,10,15,4
+Tomato Basil Mozzarella Skewers,120,8,8,5,2
+Artichoke and Spinach Dip,200,6,15,10,3
+Broccoli and Cheese Stuffed Chicken,250,30,12,5,2
+Peach Raspberry Smoothie,180,4,8,25,3
+Quinoa Black Bean Salad,220,8,10,30,6
+Cauliflower Buffalo Wings,120,5,8,15,3
+Cherry Almond Energy Bites,150,5,8,15,3
+Kale and Apple Salad,250,6,12,30,5
+Zesty Lemon Herb Chicken,280,30,15,5,1
+Kale Salad,100,5,3,15,5
+Quinoa Bowl,200,8,10,25,6
+Grilled Salmon Salad,250,30,12,10,4
+Chia Seed Smoothie,150,5,8,15,7
+Sweet Potato Buddha Bowl,300,10,8,35,8
+Avocado Toast,180,6,10,20,6
+Green Smoothie,120,3,5,15,6
+Greek Yogurt Parfait,200,10,12,8,4
+Cauliflower Rice Bowl,250,5,10,20,5
+Almond Butter Banana Toast,150,5,8,15,3
+Broccoli Quinoa Salad,220,8,10,30,6
+Spinach and Mushroom Omelette,180,12,10,8,3
+Baked Chicken Breast with Steamed Veggies,300,30,12,15,5
+Mixed Berry Smoothie Bowl,180,4,8,25,6
+Sweet Potato and Kale Hash,220,6,8,25,7
+Salmon and Quinoa Patties,250,25,10,15,4
+Mango Avocado Spinach Salad,200,5,10,20,7
+Whole Grain Wrap with Turkey and Veggies,280,20,10,30,5
+Roasted Brussels Sprouts with Balsamic Glaze,150,5,8,20,6
+Cucumber Avocado Roll,120,3,8,15,4
+Chicken and Vegetable Stir-Fry,250,20,10,25,4
+Quinoa Stuffed Bell Peppers,220,8,12,25,5
+Avocado Chickpea Salad,150,5,8,20,4
+Mango Chia Pudding,180,4,8,25,5
+Spinach and Chickpea Curry,220,12,8,25,8
+Quinoa Salad with Mixed Vegetables,200,8,10,30,6
+Grilled Chicken Breast with Herbed Quinoa,300,30,10,15,4
+Mango Salsa with Whole Grain Tortilla Chips,180,3,8,20,5
+Roasted Salmon with Asparagus and Lemon,250,25,12,10,3
+Greek Salad with Feta and Olives,150,6,10,15,4
+Vegetable and Lentil Soup,120,8,3,15,5
+Baked Sweet Potato Fries,200,3,10,25,5
+Mixed Berry Smoothie,150,4,8,20,6
+Brown Rice and Black Bean Bowl,220,8,10,30,7
+Oven-Roasted Vegetable Medley,180,5,8,20,6
+Steamed Broccoli with Garlic,120,5,3,15,4
+Tomato Basil Quinoa Risotto,250,8,12,25,6
+Grilled Turkey Burger with Whole Wheat Bun,280,20,10,30,5
+Cauliflower and Chickpea Curry,220,10,8,25,7
+Quinoa and Avocado Wrap,180,6,8,20,5
+Hummus with Carrot and Cucumber Sticks,120,5,8,15,4
+Poached Egg and Spinach on Whole Grain Toast,150,10,8,5,3
+Fruit Salad with Yogurt Dressing,200,5,8,25,5
+Grilled Vegetable Skewers,180,4,10,20,6
+Mushroom and Spinach Quiche with Whole Wheat Crust,250,15,12,10,4
+Oatmeal with Fresh Berries and Nuts,220,8,10,25,7
+Lentil and Vegetable Stir-Fry,200,10,8,20,5
+Chia Seed Pudding with Almond Milk,180,4,8,15,7
+Grilled Salmon with Quinoa and Lemon-Dill Sauce,280,30,12,10,4
+Vegetarian Buddha Bowl with Brown Rice,220,8,10,30,6
+Chickpea and Spinach Stew,200,10,8,25,7
+Stuffed Bell Peppers with Turkey and Quinoa,250,25,10,15,4
+Mango and Avocado Salad with Lime Vinaigrette,180,5,10,20,6
+Herbed Chicken Breast with Roasted Vegetables,300,30,10,15,4
+Quinoa and Black Bean Salad with Cilantro-Lime Dressing,220,8,10,30,6
+Greek Yogurt Parfait with Fresh Berries and Almonds,150,6,8,15,4
+Baked Sweet Potato with Chickpea and Spinach,200,8,10,25,7
+Salmon and Quinoa Patties with Avocado Salsa,250,25,10,15,4
+Vegetable Stir-Fry with Tofu and Brown Rice,220,10,8,25,6
+Cauliflower and Lentil Curry with Brown Rice,180,5,8,20,6
+Grilled Turkey and Vegetable Skewers,280,20,10,30,5
+Quinoa and Kale Salad with Lemon-Tahini Dressing,220,12,8,25,7
+Mushroom and Spinach Omelette with Whole Wheat Toast,180,12,10,8,3
+Roasted Brussels Sprouts with Balsamic Glaze,150,5,8,20,6
+Whole Grain Wrap with Hummus and Fresh Vegetables,200,6,8,20,5
+Poached Egg and Avocado on Whole Grain English Muffin,150,10,8,5,3
+Fresh Fruit Salad with Greek Yogurt,200,5,8,25,5
+Grilled Vegetable Quinoa Bowl with Tahini Drizzle,180,4,10,20,6
+Steamed Broccoli and Carrots with Garlic Butter,120,5,3,15,4
+Tomato Basil Quinoa Risotto with Grilled Shrimp,250,25,12,10,3
+Brown Rice Bowl with Black Beans and Salsa,220,8,10,30,7
+Oven-Roasted Sweet Potato Wedges,200,3,10,25,5
+Chickpea and Vegetable Curry with Basmati Rice,220,10,8,25,7
+Quinoa Porridge with Almond Milk and Berries,180,4,8,15,7
+Grilled Chicken Salad with Mixed Greens and Balsamic Vinaigrette,250,30,12,10,5
+Vegetarian Lentil Soup with Whole Grain Bread,180,10,8,20,7
+Salmon and Asparagus Stir-Fry with Quinoa,280,25,10,15,5
+Quinoa and Chickpea Stuffed Bell Peppers,220,8,10,30,6
+Mango and Berry Smoothie with Greek Yogurt,200,6,8,25,5
+Baked Herb-Crusted Cod with Roasted Vegetables,300,30,10,15,4
+Brown Rice and Vegetable Sushi Rolls,250,20,10,30,6
+Greek Yogurt Parfait with Granola and Fresh Berries,150,6,8,15,4
+Sweet Potato and Black Bean Chili,200,8,10,25,7
+Salmon and Quinoa Salad with Lemon-Dill Dressing,250,25,10,15,4
+Vegetable Stir-Fry with Tofu and Quinoa,220,10,8,25,6
+Cauliflower and Lentil Curry with Brown Rice,180,5,8,20,6
+Grilled Turkey Burger with Avocado and Whole Wheat Bun,280,20,10,30,5
+Quinoa and Kale Salad with Cranberries and Walnuts,220,12,8,25,7
+Mushroom and Spinach Omelette with Whole Grain Toast,180,12,10,8,3
+Roasted Brussels Sprouts with Lemon and Garlic,150,5,8,20,6
+Whole Wheat Wrap with Hummus and Fresh Vegetables,200,6,8,20,5
+Poached Egg and Avocado on Whole Grain English Muffin,150,10,8,5,3
+Fresh Fruit Salad with Low-Fat Greek Yogurt,200,5,8,25,5
+Grilled Vegetable Quinoa Bowl with Tahini Drizzle,180,4,10,20,6
+Steamed Broccoli and Carrots with Garlic and Olive Oil,120,5,3,15,4
+Tomato Basil Quinoa Risotto with Grilled Shrimp,250,25,12,10,3
+Brown Rice Bowl with Black Beans, Corn, and Salsa,220,8,10,30,7
+Oven-Roasted Sweet Potato Wedges with Paprika,200,3,10,25,5
+Chickpea and Vegetable Curry with Basmati Rice,220,10,8,25,7
+Quinoa Porridge with Almond Milk and Mixed Berries,180,4,8,15,7
+Cheeseburger with Fries,800,30,40,70,5
+Pepperoni Pizza,300,12,15,25,2
+Fried Chicken Wings with Ranch Dip,500,25,30,20,1
+Double Chocolate Chip Cookies,200,2,10,25,1
+Soda (Regular),150,0,0,38,0
+Deep-Fried Mozzarella Sticks,350,15,20,25,2
+Nachos with Cheese and Sour Cream,450,10,25,40,3
+Hot Dog with Chili and Cheese,350,15,20,25,2
+Margarita Cocktail,200,0,0,20,0
+Chocolate Milkshake,400,10,20,40,2
+French Fries,300,3,15,40,4
+Onion Rings,250,5,15,30,3
+Ice Cream Sundae with Whipped Cream,500,10,25,60,3
+Bacon, Egg, and Cheese Breakfast Sandwich,400,20,18,30,2
+Macaroni and Cheese,350,10,15,40,2
+Cheese Nachos with Guacamole,400,8,20,40,3
+Fried Mozzarella Cheeseburger,600,25,30,40,4
+Chocolate Brownie with Ice Cream,450,6,25,60,3
+Large Chocolate Milkshake,600,15,30,60,4
+Jalapeno Popper Pizza,400,15,20,35,2
+Loaded Potato Skins with Bacon and Cheese,500,12,25,30,3
+Fried Chicken Sandwich with Bacon and Mayo,600,25,30,35,2
+Caramel Popcorn,200,2,10,25,2
+Deep-Fried Oreos,300,5,15,30,1
+Cheese and Pepperoni Calzone,450,20,25,40,2
+Margarita Pizza,350,12,15,30,2
+Cheese Fries with Gravy,400,8,20,35,3
+Peanut Butter and Jelly Donut Sandwich,350,6,18,40,2
+Candy Bar Milkshake,500,12,25,50,2
+Bacon-Wrapped Hot Dog with Cheese,450,20,25,30,2
+Triple Cheese Bacon Burger with Onion Rings,900,40,50,70,4
+Large Pepperoni and Sausage Pizza,400,18,25,40,3
+Fried Chicken Tenders with BBQ Sauce,550,20,30,40,2
+Chocolate Chip Cookie Dough Ice Cream,350,6,20,40,2
+Cola (Large),300,0,0,75,0
+Deep-Fried Mozzarella Cheese Sticks,400,18,25,30,2
+Loaded Nachos with Cheese, Beef, and Sour Cream,600,15,35,50,4
+Chili Cheese Hot Dog,500,25,25,30,3
+Pina Colada Cocktail,250,0,10,30,1
+Cookies and Cream Milkshake,450,10,25,45,3
+Curly Fries,350,5,20,40,4
+Bacon-Wrapped Onion Rings,300,8,15,25,2
+Chocolate Sundae with Extra Toppings,600,12,30,70,3
+Bacon, Egg, and Cheese Breakfast Burrito,500,25,20,35,2
+Instant Macaroni and Cheese Cup,300,8,10,40,2
+Chili Cheese Fries,450,10,25,35,3
+Deep-Fried Macaroni and Cheese Balls,550,15,30,40,3
+Double Chocolate Fudge Brownie,400,8,20,50,2
+Super-sized Chocolate Milkshake,800,20,40,80,5
+BBQ Chicken Pizza,550,20,25,45,3
+Loaded Potato Skins with Extra Cheese and Bacon,600,15,30,40,4
+Fried Chicken Sandwich with Cheese and Ranch,700,30,35,30,2
+Caramel Popcorn with Nuts,250,5,15,30,2
+Deep-Fried Twinkies,400,8,20,30,1
+Extra Cheese and Pepperoni Calzone,600,25,35,50,3
+Supreme Meat Lover's Pizza,500,25,30,40,3
+Cheese Fries with Bacon and Gravy,550,12,30,40,4
+Peanut Butter Cup Milkshake,600,15,30,50,3
+Bacon-Wrapped Cheese-Stuffed Hot Dog,550,25,30,25,2
+Butter Chicken with Naan,800,30,40,50,3
+Paneer Tikka Masala,600,25,35,45,4
+Samosa Chaat,500,15,25,40,3
+Vada Pav with Extra Chutney,450,10,20,35,2
+Gulab Jamun with Ice Cream,350,6,15,40,1
+Mutton Biryani,700,30,35,50,3
+Pav Bhaji with Extra Butter,600,20,30,40,5
+Chicken Korma with Naan,850,40,45,40,2
+Jalebi with Rabri,400,5,20,50,2
+Chole Bhature,900,35,50,60,8
+Rajma Chawal with Extra Ghee,750,25,30,50,6
+Aloo Paratha with Butter,500,15,20,35,3
+Chicken Pakora,600,25,30,35,2
+Pani Puri (6 Pieces),300,5,15,25,2
+Bhatura with Chole,800,30,40,50,6
+Vegetable Biryani,650,20,25,45,4
+Paneer Butter Masala,550,25,30,35,3
+Dahi Puri (6 Pieces),350,5,15,30,2
+Chicken Fried Rice,700,25,35,45,4
+Samosa with Tamarind Chutney,400,10,20,30,3
+Aloo Tikki Chaat,450,8,25,35,2
+Chicken Baida Roti,650,30,30,35,3
+Jalebi,250,3,15,30,1
+Mutton Kofta Curry,600,28,35,40,3
+Pesarattu with Coconut Chutney,550,15,25,40,5
+Chicken 65,500,20,25,30,2
+Malai Kofta with Naan,750,35,40,35,4
+Rasgulla (2 Pieces),200,2,10,25,0
+Chicken Biryani,800,35,40,50,4
+Chole Samosa Chaat,600,20,30,45,3
+Vada Pav with Extra Cheese,500,12,25,35,2
+Gajar Ka Halwa with Ice Cream,350,10,15,30,3
+Butter Paneer Masala with Naan,900,40,45,40,3
+Rogan Josh with Butter Naan,750,35,30,40,3
+Samosa Burger,600,25,30,35,4
+Jalebi Rabri Parfait,400,6,20,40,2
+Pav Bhaji Pizza,850,40,45,40,5
+Paneer Pakora Chaat,700,30,35,30,3
+Chana Chaat with Extra Sev,650,15,25,40,3
+Aloo Paratha with Extra Ghee,550,18,25,35,4
+Chicken Kebab Roll with Cheese,700,28,30,40,3
+Dahi Puri Pizza,450,10,20,25,2
+Bhatura with Aloo Sabzi,800,30,40,50,6
+Vegetable Biryani Burger,650,20,25,45,4
+Butter Chicken Roll,550,25,30,35,3
+Kesar Pista Kulfi Falooda,350,8,15,30,2
+Chicken Manchurian Noodles,750,25,35,45,4
+Paneer Tikka Pizza,700,30,30,40,3
+Samosa Sandwich,500,15,25,35,3
+Rajma Galouti Kebab,650,20,30,40,3
+Misal Pav with Extra Farsan,600,25,30,35,4
+Gulab Jamun Sundae,350,6,20,40,3
+Chicken Malai Kofta with Garlic Naan,900,40,45,35,4
+Ras Malai Cheesecake,550,18,30,35,3
+Pav Bhaji Tacos,800,35,40,50,5
+Pani Puri Salad,450,8,25,30,2
+Aloo Tikki Burger,600,20,30,35,3
+Mango Lassi,150,3,5,30,1
+Watermelon Slices,50,1,0,12,1
+Papaya Salad with Lime,80,1,0,20,3
+Kiwi Smoothie,120,2,1,25,4
+Pineapple chunks,60,1,0,16,2
+Mixed Berry Salad,70,1,0,17,4
+Grapes (1 cup),100,1,0,24,1
+Banana Split with Chocolate Syrup,400,4,20,60,5
+Orange Sorbet,150,1,0,35,2
+Strawberry Cheesecake,350,5,20,40,3
+Coconut Water,50,0,0,11,0
+Blueberry Pancakes,300,5,10,45,3
+Apple Pie with Vanilla Ice Cream,450,5,25,50,4
+Pomegranate Seeds,80,1,1,18,3
+Cantaloupe Slices,60,1,0,14,2
+Avocado Smoothie,200,3,15,20,5
+Cherry Cobbler,350,3,15,50,4
+Passion Fruit Sorbet,120,1,0,30,2
+Dragon Fruit Bowl,150,2,1,30,3
+Raspberry Chocolate Tart,300,4,15,30,3
+Lemon Sorbet,100,0,0,25,1
+Cranberry Orange Muffins,250,3,10,40,2
+Mango Sticky Rice,400,5,10,80,3
+Star Fruit Slices,50,1,0,12,1
+Apricot Almond Tart,350,4,20,35,3
+Blackberry Lemonade,80,1,0,20,1
+Fruit Salad with Honey-Lime Dressing,120,1,0,30,3
+Plum Crumble,300,3,15,40,2
